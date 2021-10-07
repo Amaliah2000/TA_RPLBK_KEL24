@@ -1,0 +1,43 @@
+{    "jurusan":[
+  {
+      "namafakultas":"Fakultas Teknik",
+      "jumlahjurusan":"25",
+      "id":"1",
+      "list": {
+          "namajurusan":"Teknik Komputer, Teknik Mesin, Teknik Sipil"
+      }
+  },
+  {
+      "namafakultas":"Fakultas Ilmu Sosial & Politik",
+      "jumlahjurusan":"15",
+      "id":"2",
+      "list": {
+          "namajurusan":"HI, .... "
+      }
+  },
+  {
+      "namafakultas":"Fakultas Kedokteran",
+      "jumlahjurusan":"3",
+      "id":"3",
+      "list": {
+          "namajurusan":"Kedokteran"
+      }
+  },
+  {
+      "namafakultas":"Fakultas Hukum",
+      "jumlahjurusan":"3",
+      "id":"4",
+      "list": {
+          "namajurusan":"Hukum"
+      }
+  },
+  {
+    "namafakultas":"Fakultas Ekonomi & Bisnis",
+    "jumlahjurusan":"4",
+    "id":"5",
+    "list": {
+        "namajurusan":"Ekonomi, Akutansi"
+    }
+  }
+]
+}
