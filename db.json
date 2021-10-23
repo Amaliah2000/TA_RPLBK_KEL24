@@ -12,7 +12,7 @@
       "jumlahjurusan":"15",
       "id":"2",
       "list": {
-          "namajurusan":"HI, .... "
+          "namajurusan":"HI, Ilmu Komunikasi, Ilmu Pemerintahan "
       }
   },
   {
@@ -20,7 +20,7 @@
       "jumlahjurusan":"3",
       "id":"3",
       "list": {
-          "namajurusan":"Kedokteran"
+          "namajurusan":"Kedokteran, Farmasi, Gizi"
       }
   },
   {
@@ -36,7 +36,7 @@
     "jumlahjurusan":"4",
     "id":"5",
     "list": {
-        "namajurusan":"Ekonomi, Akutansi"
+        "namajurusan":"Ekonomi, Akutansi, Manajemen"
     }
   }
 ]
